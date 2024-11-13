@@ -1,4 +1,4 @@
-package TACK1;
+package TASK1;
 import java.util.Scanner;
 public class NUMBERGAME {
 public static void main(String[] args) {
